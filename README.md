@@ -4,6 +4,7 @@
 - 💞 I love to learn and explore various topics that pique my interest
 
 📫 How to reach me :
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="priyadarshan2003" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/priyadarshan2003?trk=profile-badge">Priyadarshan N S</a></div>
               
 <!---
