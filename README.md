@@ -1,10 +1,10 @@
-<h2>👋 Hi, I’m Priyadarshan 😊</h2>
+<h1>👋 Hi, I’m Priyadarshan 😊</h1>
 
 - 👀 I’m interested in Sofware Development 💻🍀
 - 🌱 I’m currently learning Web Dev
 - 💞 I love to learn and explore various topics that pique my interest
 
-<h5>📫 How to reach me :</h5>
+<h4>📫 How to reach me :</h4>
 - Catch me on Linkedin : <a href="https://in.linkedin.com/in/priyadarshan2003?trk=profile-badge">Priyadarshan N S</a>
               
 <!---
