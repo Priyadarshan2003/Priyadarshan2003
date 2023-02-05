@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Priyadarshan 😊</h1>
 
 - 👀 I’m interested in Sofware Development 💻🍀
-- 🌱 I’m currently learning Web Dev
+- 🌱 Tinkering with hardware and software is my hobby
 - 💞 I love to learn and explore various topics that pique my interest
 
 <h4>📫 How to reach me :</h4>
