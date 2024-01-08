@@ -4,7 +4,7 @@
 - 🌱 Tinkering with hardware and software is my hobby
 - 💞 I love to learn and explore various topics that pique my interest
 
-<h4>📫 How to reach me :</h4>
+<h4>📫</h4>
 - Catch me on Linkedin : <a href="https://in.linkedin.com/in/priyadarshan2003?trk=profile-badge">Priyadarshan N S</a>
               
 <!---
